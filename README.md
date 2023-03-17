@@ -1,4 +1,6 @@
-# Build a image
+# Docker cheatsheet
+
+*Build a image
 
 ````npm
     docker build -t image-name
